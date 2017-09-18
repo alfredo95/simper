@@ -1,0 +1,25 @@
+{
+  "name": "mean1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "bcryptjs": "*",
+    "bluebird": "*",
+    "body-parser": "*",
+    "cors": "*",
+    "express": "*",
+    "express-myconnection": "*",
+    "express-validator": "*",
+    "jsonwebtoken": "7.4.1",
+    "mysql": "*",
+    "passport": "0.3.2",
+    "passport-jwt": "2.2.1"
+  },
+  "author": "Javier Calette",
+  "license": "ISC"
+}
